@@ -1,4 +1,4 @@
-# lovstudio:style-clone
+# lovstudio-style-clone
 
 ![Version](https://img.shields.io/badge/version-0.1.0-CC785C)
 
@@ -17,7 +17,7 @@ git clone https://github.com/lovstudio/style-clone-skill ~/.claude/skills/lovstu
 Or via the skills CLI:
 
 ```bash
-npx skills add lovstudio/skills --skill style-clone -g -y
+npx lovstudio skills add style-clone -g -y
 ```
 
 No external dependencies — pure Claude reasoning workflow.
