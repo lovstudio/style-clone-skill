@@ -1,6 +1,6 @@
 # 文风复刻 · Voice Replica
 
-![Version](https://img.shields.io/badge/version-0.2.1-CC785C)
+![Version](https://img.shields.io/badge/version-0.2.2-CC785C)
 
 输入样本文章 → 提取结构化**文风画像** → 用该文风改写任意内容。
 
@@ -18,7 +18,7 @@ git clone https://example.com/skills/style-clone-skill \
 Or via the skills CLI:
 
 ```bash
-npx skills add style-clone -g -y
+npx lovstudio skills add style-clone -g -y
 ```
 
 No external dependencies — pure Claude reasoning workflow.
